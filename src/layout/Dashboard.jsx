@@ -39,9 +39,9 @@ const Dashboard = () => {
                 </NavLink>
               </li>
               <li>
-                <NavLink to="/dashboard/cart">
+                <NavLink to="/dashboard/manageItems">
                   <FaList></FaList>
-                  Manage Items ({cart.length})
+                  Manage Items
                 </NavLink>
               </li>
               <li>
